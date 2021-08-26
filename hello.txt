@@ -1,6 +1,5 @@
 learn git is an important thing!
 hello!
-<<<<<<< HEAD
 bye!bye
 byebye!vvery important!!!
 new
